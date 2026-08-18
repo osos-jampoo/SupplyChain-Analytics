@@ -356,7 +356,7 @@ SupplyChainDWH/
 
 ### Overview
 
-![Overview page](photos/overview.png)
+![Overview](photos/overview.png)
 
 ### Sales & Profitability
 
