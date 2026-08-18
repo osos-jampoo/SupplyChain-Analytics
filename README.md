@@ -348,27 +348,31 @@ SupplyChainDWH/
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Overview
+
+### Data Modeling
+
+![Data Modeling](photos/data%20modeling.png)
 
 ### Overview
 
-*Add Overview screenshot here.*
+![Overview](photos/overview.png)
 
 ### Sales & Profitability
 
-*Add Sales & Profitability screenshot here.*
+![Sales & Profitability](photos/Sales%20%26%20Profitability.png)
 
 ### Delivery & Logistics
 
-*Add Delivery & Logistics screenshot here.*
+![Delivery & Logistics](photos/Delivery%20%26%20Logistics.png)
 
 ### Customer Segmentation
 
-*Add Customer Segmentation screenshot here.*
+![Customer Segmentation](photos/Customer%20Segmentation.png)
 
 ### Product & Category
 
-*Add Product & Category screenshot here.*
+![Product & Category](photos/Product%20%26%20Category.png)
 
 ---
 
