@@ -352,11 +352,11 @@ SupplyChainDWH/
 
 ### Data Modeling
 
-![Data Modeling](photos/data%20modeling.png)
+![Data Modeling](./photos/Data%20Modeling.png)
 
 ### Overview
 
-![Overview](photos/overview.png)
+![Overview](./photos/Overview.png)
 
 ### Sales & Profitability
 
